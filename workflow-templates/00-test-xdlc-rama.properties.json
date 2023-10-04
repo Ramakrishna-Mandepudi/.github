@@ -1,0 +1,7 @@
+{
+    "name": "XDLC Organization Workflow",
+    "description": "XDLC Organization CI starter workflow.",
+    "categories": [
+        "continuous-integration"
+    ]
+}
